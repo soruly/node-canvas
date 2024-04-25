@@ -8,6 +8,7 @@ project adheres to [Semantic Versioning](http://semver.org/).
 (Unreleased)
 ==================
 ### Changed
+* Add Node.js v22 to CI.
 ### Added
 ### Fixed
 
